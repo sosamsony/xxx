@@ -1,5 +1,5 @@
 // import { useState } from "react";
-import Gatere from "./assets/gmark.jpg";
+import Gatere from "./assets/sosbig.png";
 import { SlSocialLinkedin, SlSocialTwitter } from "react-icons/sl";
 import {
 	TbNotebook,
@@ -29,7 +29,7 @@ function App() {
 // 	};
 	return (
 		<div className="flex flex-col justify-center items-center mx-3 my-12 md:mx-12">
-			<img className=" h-24 rounded-full" src={Gatere} alt="gateremark" />
+			<img className=" h-24 rounded-full" src={Gatere} alt="sosamsony" />
 			<p className=" text-[#fff] my-3 text-lg font-bold">@sosamsony</p>
 			<p className=" text-[#fff] text-base text-center">
 				Google Certified UI/UX Designer | Web Developer | Trainer

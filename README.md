@@ -6,7 +6,7 @@ This is a recreation of my Linktree version using React (TypeScript), Tailwind C
 <div align="center">
 <a href="https://link.sosamson.com">
    
-![Preview](https://i.postimg.cc/mD45YJWQ/ln.png)
+![Preview](href="/sosmall.png")
 
 </a>
 </div>
