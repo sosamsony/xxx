@@ -32,7 +32,7 @@ function App() {
 			<img className=" h-24 rounded-full" src={Gatere} alt="gateremark" />
 			<p className=" text-[#fff] my-3 text-lg font-bold">@sosamsony</p>
 			<p className=" text-[#fff] text-base text-center">
-				Google Certified UI/UX Designer | Web Developer
+				Google Certified UI/UX Designer | Web Developer | Trainer
 			</p>
 			<div className="flex text-[#fff] text-3xl gap-5 my-7 justify-center items-center">
 				<a
