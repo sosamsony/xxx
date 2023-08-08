@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com/css2?family=Kite+One&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+	background-color: black;
+	font-family: "Kite One", sans-serif;
+	cursor: url(assets/arrow.png), default;
+}
+
+::-webkit-scrollbar {
+	width: 10px;
+	height: 8px;
+}
+::-webkit-scrollbar-track {
+	background: #484e5c;
+}
+::-webkit-scrollbar-thumb {
+	background: #0bd3fd;
+	opacity: 1;
+}
