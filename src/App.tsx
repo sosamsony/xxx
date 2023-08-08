@@ -159,7 +159,8 @@ function App() {
 				</a>
 			</div>
 			<p className="text-[#fff] mt-10 text-center">
-				Made with ❤️ by sosamson
+			Made by <a href="https://sosamson.com" target = "_blank" 
+rel = "noopener noreferrer">Samson Sanyaolu</a> 
 			</p>
 		</div>
 	);
