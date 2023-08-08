@@ -1,4 +1,5 @@
-# My Linktr.ee
+### Don't forget to star this repository✨✨.
+Linketree:
 
 This is a recreation of my Linktree version using React (TypeScript), Tailwind CSS, and React Icons. It serves as a centralized hub to showcase my various social media profiles and websites.
 
@@ -21,9 +22,6 @@ This is a recreation of my Linktree version using React (TypeScript), Tailwind C
 ## Demo
 
 You can see the live demo [here](https://link.sosamson.com).
-
-
-![tailwind css](https://user-images.githubusercontent.com/67497228/209465700-cc30e70a-345e-4ad8-a796-44f46b539a87.jpg)
 
 
 ### Don't forget to star this repository✨✨.
