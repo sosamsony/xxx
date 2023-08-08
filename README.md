@@ -4,7 +4,7 @@ This is a recreation of my Linktree version using React (TypeScript), Tailwind C
 
 ## Preview
 <div align="center">
-<a href="https://bit.ly/gatere">
+<a href="https://link.sosamson.com">
    
 ![Preview](https://i.postimg.cc/mD45YJWQ/ln.png)
 
@@ -20,5 +20,5 @@ This is a recreation of my Linktree version using React (TypeScript), Tailwind C
 
 ## Demo
 
-You can see the live demo [here](https://bit.ly/gatere).
+You can see the live demo [here](https://link.sosamson.com).
 
