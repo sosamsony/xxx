@@ -7,7 +7,7 @@ This is a recreation of my Linktree version using React (TypeScript), Tailwind C
 <div align="center">
 <a href="https://link.sosamson.com">
    
-![Preview](https://github.com/sosamsony/samson-linktree/blob/main/public/screen.png")
+![Preview](https://github.com/sosamsony/samson-linktree/blob/main/public/screen.png)
 
 </a>
 </div>
