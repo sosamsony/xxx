@@ -125,7 +125,7 @@ function App() {
 				</a>
 				<a
 					className=" w-full text-center bg-[#525151] hover:bg-[#444444] rounded-[30px] hover:scale-[102%] transition duration-300 cursor-pointc"
-					href="https://sosamson.com"
+					href="https://www.sosamson.com"
 					target="_blank"
 					rel="noopener"
 				>
