@@ -100,7 +100,7 @@ function App() {
 						<p className="p-5">Newsletter</p>
 						<TbShare2
 							className="text-[40px] hover:bg-[#5F5E5E] transition ease-in-out duration-300 rounded-full p-2"
-							title="Hashnode"
+							title="Newsletter"
 							// id="hashnodeLink"
 							// onClick={() => handleCopyClick("")}
 						/>
@@ -117,7 +117,7 @@ function App() {
 						<p className="p-5">Blog</p>
 						<TbShare2
 							className="text-[40px] hover:bg-[#5F5E5E] transition ease-in-out duration-300 rounded-full p-2"
-							title="Medium"
+							title="Blog"
 							// id="mediumLink"
 							// onClick={() => handleCopyClick("")}
 						/>
