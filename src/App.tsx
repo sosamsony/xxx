@@ -32,7 +32,7 @@ function App() {
 			<img className=" h-24 rounded-full" src={Gatere} alt="sosamsony" />
 			<p className=" text-[#fff] my-3 text-lg font-bold">@sosamsony</p>
 			<p className=" text-[#fff] text-base text-center">
-				Google Certified UI/UX Designer | Web Developer | Trainer
+				Web Developer | UI/UX Designer | Mentor
 			</p>
 			<div className="flex text-[#fff] text-3xl gap-5 my-7 justify-center items-center">
 				<a
@@ -91,13 +91,13 @@ function App() {
 				</a>
 				<a
 					className=" w-full text-center bg-[#525151] hover:bg-[#444444] rounded-[30px] hover:scale-[102%] transition duration-300 cursor-pointc"
-					href="https://hashnode.com/sosamsony"
+					href="https://www.linkedin.com/newsletters/emerging-technology-insights-7064956308071813121/"
 					target="_blank"
 					rel="noopener"
 				>
 					<div className="flex justify-between items-center ml-2 mr-4">
 						<TbNotebook className=" text-[35px]" />
-						<p className="p-5">Hashnode</p>
+						<p className="p-5">Newsletter</p>
 						<TbShare2
 							className="text-[40px] hover:bg-[#5F5E5E] transition ease-in-out duration-300 rounded-full p-2"
 							title="Hashnode"
