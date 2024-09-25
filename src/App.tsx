@@ -167,10 +167,10 @@ function App() {
 				>
 					<div className="flex justify-between items-center ml-2 mr-4">
 						<TbStack2 className=" text-[35px]" />
-						<p className="p-5">G.Dev</p>
+						<p className="p-5">Masterclass</p>
 						<TbShare2
 							className="text-[40px] hover:bg-[#5F5E5E] transition ease-in-out duration-300 rounded-full p-2"
-							title="My Masterclass"
+							title="Masterclass"
 							// id="devLink"
 							// onClick={() => handleCopyClick("")}
 						/>
