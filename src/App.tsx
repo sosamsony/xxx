@@ -126,16 +126,33 @@ function App() {
 				</a>
 				<a
 					className=" w-full text-center bg-[#525151] hover:bg-[#444444] rounded-[30px] hover:scale-[102%] transition duration-300 cursor-pointc"
+					href="https://sosamson.com/portfolio"
+					target="_blank"
+					rel="noopener"
+				>
+					<div className="flex justify-between items-center ml-2 mr-4">
+						<TbUser className=" text-[35px]" />
+						<p className="p-5">My Portfolio</p>
+						<TbShare2
+							className="text-[40px] hover:bg-[#5F5E5E] transition ease-in-out duration-300 rounded-full p-2"
+							title="My Portfolio"
+							// id="resumeLink"
+							// onClick={() => handleCopyClick("")}
+						/>
+					</div>
+				</a>
+				<a
+					className=" w-full text-center bg-[#525151] hover:bg-[#444444] rounded-[30px] hover:scale-[102%] transition duration-300 cursor-pointc"
 					href="https://www.sosamson.com"
 					target="_blank"
 					rel="noopener"
 				>
 					<div className="flex justify-between items-center ml-2 mr-4">
 						<TbWorld className=" text-[35px]" />
-						<p className="p-5">My Portfolio</p>
+						<p className="p-5">My Website</p>
 						<TbShare2
 							className="text-[40px] hover:bg-[#5F5E5E] transition ease-in-out duration-300 rounded-full p-2"
-							title="My Portfolio"
+							title="My Website"
 							// id="portfolioLink"
 							// onClick={() => handleCopyClick("")}
 						/>
